@@ -2,7 +2,7 @@
 
 Aura is a lightning-fast, offline, and privacy-first visual search application for Android that allows users to explore and find photos in their local gallery using natural language descriptions. Powered by on-device machine learning, everything runs locally on mobile hardware without sending personal images to any cloud server.
 
-[![Download APK](https://img.shields.io/badge/Download-Aura_APK-4FA8FF?style=for-the-badge&logo=android)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/app-debug.apk)
+[![Download APK](https://img.shields.io/badge/Download-Aura_APK-4FA8FF?style=for-the-badge&logo=android)](https://github.com/venkatjyoshitpotnuru/Aura-VisualSearch/releases/latest/download/app-debug.apk)
 
 ## 🚀 Key Features
 

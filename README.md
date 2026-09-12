@@ -14,7 +14,7 @@ Aura is a lightning-fast, offline, and privacy-first visual search application f
 
 ## 📥 Direct Installation
 If you just want to test or use the app without compiling the source code:
-1. Go to the [Releases Page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest) and download the latest `app-debug.apk`.
+1. Go to the [Releases Page](https://github.com/venkatjyoshitpotnuru/Aura-VisualSearch/releases/latest) and download the latest `app-debug.apk`.
 2. Transfer or open the APK file on your Android device.
 3. Tap **Install** (allow installation from unknown sources if prompted).
 

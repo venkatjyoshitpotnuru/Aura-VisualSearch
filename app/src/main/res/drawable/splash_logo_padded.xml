@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Adds 56dp of padding on all sides to shrink the logo safely away from the circular mask -->
+    <item
+        android:drawable="@drawable/aura_logo"
+        android:bottom="56dp"
+        android:left="56dp"
+        android:right="56dp"
+        android:top="56dp" />
+</layer-list>

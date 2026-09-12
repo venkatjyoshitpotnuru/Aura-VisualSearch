@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your base application theme (Jetpack Compose will draw over this) -->
+    <style name="Theme.MySearchApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#030303</item>
+        <item name="android:windowBackground">#030303</item>
+    </style>
+
+    <!-- The exact Splash Screen theme Android 12+ requires -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- The background color behind your logo -->
+        <item name="windowSplashScreenBackground">#000000</item>
+
+        <!-- Points to the XML file we just fixed with the layer-list -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo_padded</item>
+
+        <!-- Automatically switches to your main theme once the UI is ready -->
+        <item name="postSplashScreenTheme">@style/Theme.MySearchApp</item>
+    </style>
+</resources>
